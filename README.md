@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m Pradeep Singh. 
-- 🌱 I’m currently learning startup and coding skills.
 - 💬 Ask me about: AI, Startups, Entrepreneurship
 - 📫 How to reach me: pradeep@pradeep.co
 
